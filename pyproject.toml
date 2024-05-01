@@ -1,0 +1,23 @@
+[project]
+name = "stock-market-analytics"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Samir Hinojosa", email = "samirhinojosa@gmail.com"},
+]
+dependencies = [
+    "jupyterlab==4.1.6",
+    "numpy==1.26.4",
+    "pandas==2.2.2",
+    "pandas-datareader==0.10.0",
+    "yfinance==0.2.38",
+    "matplotlib==3.8.4",
+    "plotly==5.21.0",
+]
+requires-python = "==3.10.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
