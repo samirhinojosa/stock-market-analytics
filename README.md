@@ -1,4 +1,12 @@
-# Stock Market Analytics Zoomcamp
+# Analytics in Stock Markets Zoomcamp
+
+A gentle introduction to stock market trading, Python programming in Colab, analytics, and data visualisation
+
+## Course information
+
+* Website [PythonInvest](https://pythoninvest.com/)
+* In collaboration with [DataTalks.Club](https://datatalks.club/)
+* Github [repo](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp/blob/main/README.md)
 
 ## (Detailed) Syllabus
 
@@ -14,7 +22,6 @@
 * Essential Principles for API Selection
   * Considerations for selecting the right API for your data needs.
   * When it becomes necessary to consider payment options in the API selection process.
-* Homework
 
 [More details](01-intro-and-data-sources/)
 
@@ -36,7 +43,6 @@
 * Thorough Descriptive Analysis
   * Conduct a comprehensive descriptive analysis of the dataset.
   * Explore correlations within the data to uncover meaningful insights.
-* Homework
 
 [More details](02-dataframe-analysis/)
 
@@ -48,7 +54,6 @@
 * Regression techniques for understanding data relationships.
 * Binary classification to determine growth direction.
 * [Optional] Example of neural networks in analytical modelling.
-* Homework
 
 [More details](03-modeling/)
 
@@ -68,7 +73,6 @@ Moving Beyond Prediction into the realm of Trading Strategy and Simulation:
   * Exploration of "Penny" stocks and dividend strategies.
   * [Maybe - Advanced] Basic options strategy.
 * Simulate the financial results based on predictions and the chosen strategy.
-* Homework
 
 [More details](04-trading-strategy-and-simulation/)
 
@@ -81,17 +85,12 @@ Streamlining Processes from Prediction to Action:
 * Explore automation techniques such as scheduling cron jobs for a series of .py files and consider data workflow solutions like Apache Airflow.
 * Learn to generate predictions and execute trades systematically.
 * [Maybe - Advanced] Implement automated email notifications containing predictions, trade details, and updates on profit/loss for the designated period.
-* Homework
 
 [More details](05-deployment-and-automation/)
 
 
-### [Project](project)
+### [Module 6: Capstone Project and Peer Review](project)
 
-Putting everything we learned to practice
+Applying Analytical Skills in a Real-world Scenario In the concluding weeks of the course, you'll embark on a comprehensive Capstone Project, applying the skills acquired throughout the program. This project aims to showcase your proficiency in data analysis, predictive modeling, and the implementation of trading strategies.
 
-* Week 1 and 2: working on your project
-* Week 3: reviewing your peers
-
-More details: will be shared in the coming weeks
 
