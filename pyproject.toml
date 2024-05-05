@@ -1,7 +1,7 @@
 [project]
 name = "stock-market-analytics"
 version = "0.1.0"
-description = "Default template for PDM package"
+description = "Analytics in Stock Markets Zoomcamp"
 authors = [
     {name = "Samir Hinojosa", email = "samirhinojosa@gmail.com"},
 ]
@@ -14,7 +14,7 @@ dependencies = [
     "matplotlib==3.8.4",
     "plotly==5.21.0",
 ]
-requires-python = "==3.10.12"
+requires-python = "==3.10.*"
 readme = "README.md"
 license = {text = "MIT"}
 
